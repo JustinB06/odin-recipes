@@ -1,0 +1,33 @@
+html {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: #ebeced;
+}
+
+.top-bar {
+  text-align: center;
+  background-color: white;
+  padding: 15px;
+  margin: 20px auto;
+  width: 50%;
+}
+
+img {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+}
+
+.description,
+.ingredients,
+.steps {
+  background-color: white;
+  padding: 15px;
+  margin: 20px auto;
+  width: 70%;
+}
+
+.description h3,
+.ingredients h3,
+.steps h3 {
+  border-bottom: 2px solid #ebeced;
+}
